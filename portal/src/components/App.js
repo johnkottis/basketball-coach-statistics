@@ -23,7 +23,7 @@ import CoachStats from "./coach/CoachStats";
 
 const App = () => {
   return (
-    <Router basename={"/coaching-statistics"}>
+    <Router basename={"/coachjk"}>
       <div className="main-app">
         <MainHeader />
         <div className="main-content">
