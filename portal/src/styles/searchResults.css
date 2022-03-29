@@ -1,0 +1,32 @@
+/**** RESULTS ****/
+
+.main-app .search-results {
+    margin-bottom: 80px;
+}
+
+.main-app .search-results tr:hover {
+    background-color: #e4f2e1 !important;
+}
+
+.main-app .search-results th {
+    background-color: #f3f3f4 !important;
+    border-bottom: 1px solid #888 !important;
+    font-size: 15px;
+    font-weight: 400 !important;
+}
+
+.main-app .search-results td {
+    font-weight: 400 !important;
+}
+
+.main-app .search-results tr td:first-child a {
+    cursor: pointer;
+}
+
+.main-app .search-results td a {
+    color: #004400;
+}
+
+.main-app .search-results td:hover a {
+    color: #000000;
+}

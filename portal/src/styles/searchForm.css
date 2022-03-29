@@ -1,0 +1,55 @@
+/**** SEARCH FORMS ****/
+.main-app form {
+    background-color: #e4f2e1;
+    box-sizing: border-box;
+    margin-bottom: 50px !important;
+    padding: 30px 20px 5px;
+}
+
+.main-app .search-categories {
+    float: right;
+    width: auto;
+}
+
+.search-form .field {
+    float: left;
+    clear: none !important;
+}
+
+.main-app .ui.form .field>label {
+    font-family: "Roboto Condensed", sans-serif !important;
+    font-size: 15px;
+    font-weight: 400;
+}
+
+.ui.basic.secondary.button,
+.ui.basic.secondary.buttons .button {
+    background: none !important;
+    box-shadow: none !important;
+    color: #777777 !important;
+    font-family: 'Bangers', cursive !important;
+    font-size: 20px !important;
+    letter-spacing: 0.5px;
+    margin: 15px 10px 15px 0 !important;
+    padding: 0 !important;
+}
+
+.searchform-search button {
+    background: none !important;
+    color: #000000 !important;
+    font-family: 'Bangers', cursive !important;
+    font-size: 20px !important;
+    letter-spacing: 0.5px;
+    margin: 15px 0 0 !important;
+    padding: 0 !important;
+}
+
+.searchform-search button:hover,
+.ui.basic.secondary.button:hover {
+    box-shadow: none !important;
+    text-decoration: underline !important;
+}
+
+.search-btn-group {
+    text-align: right !important;
+}

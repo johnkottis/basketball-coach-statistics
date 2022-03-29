@@ -1,0 +1,33 @@
+/**** COACH CARD ****/
+.coach-card {
+    background-color: #e4f2e1;
+    box-sizing: border-box;
+    float: left;
+    padding: 15px;
+    margin-bottom: 30px;
+    width: 100%;
+}
+
+.coach-card img {
+    border: 10px solid #FFFFFF;
+    float: left;
+    height: 200px;
+}
+
+.coach-card .list {
+    float: left;
+    font-size: 15px;
+    font-weight: 300;
+    margin: 20px 30px;
+}
+
+.back-to-results {
+    color: #004400;
+    display: inline-block;
+    margin-bottom: 10px;
+    margin-left: 5px;
+}
+
+.back-to-results:hover {
+    color: #000000 !important;
+}

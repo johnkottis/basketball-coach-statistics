@@ -1,0 +1,17 @@
+/**** MAIN HEADER ****/
+.main-header {
+    background: #000000;
+    border-bottom: 5px solid #959595;
+    font-family: "Roboto Condensed", sans-serif;
+    height: 120px;
+    padding-top: 5px;
+    position: relative;
+    width: 100%;
+}
+
+/**** MAIN LOGO ****/
+.main-logo {
+    float: left;
+    margin: 15px;
+    max-height: 80px;
+}

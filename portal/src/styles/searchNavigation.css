@@ -1,0 +1,21 @@
+.main-app .search-categories {
+    float: right;
+    width: auto;
+}
+
+.search-form .field {
+    float: left;
+    clear: none !important;
+}
+
+.back-to-results {
+    color: #777777;
+    font-size: 14px;;
+    display: inline-block;
+    margin: 5px 0 20px;
+    margin-left: 5px;
+}
+
+.back-to-results:hover {
+    color: #000000 !important;
+}

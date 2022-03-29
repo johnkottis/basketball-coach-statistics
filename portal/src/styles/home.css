@@ -1,0 +1,15 @@
+/**** NAVIGATION CARDS ****/
+
+.home .column a {
+    display: inline-block;
+}
+
+.navigation-card:hover {
+    opacity: 0.7;
+}
+
+.navigation-card .header {
+    font-family: 'Bangers', cursive !important;
+    font-size: 18px;
+    text-align: center !important;
+}
