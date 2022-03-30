@@ -146,10 +146,10 @@ class GamesSearch extends React.Component {
             >
               <option key="noHomeAway" value={null}></option>
               <option key="homeGames" value="home">
-                Home court
+                My Team
               </option>
               <option key="awayGames" value="away">
-                On the road
+                Opponent
               </option>
             </Form.Field>
           }
@@ -164,7 +164,7 @@ class GamesSearch extends React.Component {
             >
               <option key="noTime" value={null}></option>
               <option key="ninetyMinutes" value="regular">
-                40 minutes
+                4 Quarters
               </option>
               <option key="overtime" value="overtime">
                 Overtime

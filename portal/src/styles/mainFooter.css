@@ -1,11 +1,17 @@
-/**** MAIN FOOTER ****/
 .main-footer {
     background: #000000;
     box-sizing: border-box;
-    margin-left: 0 !important;
-    margin-top: 0px !important;
+    margin: 0 !important;
     padding: 20px 75px 5px !important;
     width: 100%;
+}
+
+.main-footer .active.footer-links-h1 {
+    color: #FFFFFF !important;
+    font-family: 'Bangers', cursive;
+    font-size: 18px;
+    font-weight: 400;
+    letter-spacing: 1px;
 }
 
 .main-footer a {
@@ -17,14 +23,6 @@
 
 .main-footer a:hover {
     color: #FFFFFF !important;
-}
-
-.main-footer .active.footer-links-h1 {
-    color: #FFFFFF !important;
-    font-family: 'Bangers', cursive;
-    font-size: 18px;
-    font-weight: 400;
-    letter-spacing: 1px;
 }
 
 .main-footer .smo .item {

@@ -18,7 +18,7 @@ import CoachDetails from "./coach/CoachDetails";
 
 import "../styles/mainHeader.css";
 import "../styles/mainFooter.css";
-import "../styles/mainBody.css";
+import "../styles/main.css";
 import CoachStats from "./coach/CoachStats";
 
 const App = () => {

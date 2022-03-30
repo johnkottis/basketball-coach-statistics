@@ -27,7 +27,7 @@ class GamesCompetitions extends React.Component {
       .filter(uniqueEntries);
 
     competitions.map((competition) => {
-      competitionsData.push(recordCompetition(jsonToArrayGames, competition));
+      return competitionsData.push(recordCompetition(jsonToArrayGames, competition));
     });
 
     return competitionsData.map((competition) => {
